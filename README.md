@@ -28,3 +28,7 @@ Move the `Nord.tet` to `steamapps/common/Godot Engine/editor_data/text_editor_th
 2. Select `Nord` from the **Color Theme** dropdown
 
 # Enjoy!
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/bf198ff2-1668-4193-8661-877e4e074591" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/ba242034-f404-486e-b921-46252aff13ce" />
+
